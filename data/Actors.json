@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"reihokou","classId":1,"equips":[0,46,0,1,0],"faceIndex":0,"faceName":"reikaogura","traits":[],"initialLevel":1,"maxLevel":99,"name":"レイ","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":1,"characterName":"zakkuhokou","classId":1,"equips":[1,46,0,1,0],"faceIndex":0,"faceName":"karikaogura2","traits":[],"initialLevel":1,"maxLevel":99,"name":"ザック","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"dani-hokougura(ge-muyou)","classId":3,"equips":[0,46,0,1,0],"faceIndex":0,"faceName":"dani-kaogura","traits":[],"initialLevel":1,"maxLevel":99,"name":"ダニエル","nickname":"流浪の聖騎士","note":"","profile":"謀略により地位を剥奪された聖騎士。真の騎士道を極めるため\n各地をさまよい修練を重ねている。"}
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"reihokou","classId":1,"equips":[0,46,0,1,0],"faceIndex":0,"faceName":"reikaogura","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ray","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"zakkuhokou","classId":1,"equips":[1,46,0,1,0],"faceIndex":0,"faceName":"karikaogura2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Zack","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"dani-hokougura(ge-muyou)","classId":3,"equips":[0,46,0,1,0],"faceIndex":0,"faceName":"dani-kaogura","traits":[],"initialLevel":1,"maxLevel":99,"name":"Danny","nickname":"","note":"","profile":""}
 ]

@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"OP初期MAP","order":1,"parentId":0,"scrollX":970,"scrollY":672},
-{"id":2,"expanded":true,"name":"目覚める部屋","order":2,"parentId":0,"scrollX":970,"scrollY":672},
+{"id":1,"expanded":false,"name":"OP初期MAP","order":1,"parentId":0,"scrollX":532,"scrollY":318.5},
+{"id":2,"expanded":true,"name":"目覚める部屋","order":2,"parentId":0,"scrollX":668,"scrollY":417.5},
 {"id":3,"expanded":false,"name":"廊下B0","order":3,"parentId":2,"scrollX":954,"scrollY":676},
 {"id":4,"expanded":false,"name":"B0you","order":4,"parentId":2,"scrollX":970,"scrollY":672},
 {"id":5,"expanded":true,"name":"B6","order":5,"parentId":0,"scrollX":970,"scrollY":672},
@@ -30,7 +30,7 @@ null,
 {"id":28,"expanded":false,"name":"b4裏側","order":28,"parentId":21,"scrollX":1094.6666666666667,"scrollY":661.3333333333334},
 {"id":29,"expanded":false,"name":"B4最後の場所手前","order":29,"parentId":21,"scrollX":1785,"scrollY":1541},
 {"id":30,"expanded":false,"name":"エレベータの中","order":31,"parentId":0,"scrollX":1111,"scrollY":677},
-{"id":31,"expanded":false,"name":"ED","order":32,"parentId":0,"scrollX":579,"scrollY":356},
+{"id":31,"expanded":false,"name":"ED","order":32,"parentId":0,"scrollX":532,"scrollY":318.5},
 {"id":32,"expanded":false,"name":"秘密の部屋","order":33,"parentId":0,"scrollX":272,"scrollY":208},
 {"id":33,"expanded":false,"name":"神様に誓って","order":30,"parentId":21,"scrollX":1111,"scrollY":677}
 ]
